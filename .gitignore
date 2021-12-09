@@ -9,3 +9,6 @@
 
 ##macOS indexed files
 .DS_Store
+
+#Maven compiled files
+/target/
